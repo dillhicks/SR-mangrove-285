@@ -2,8 +2,9 @@
 
 Team Members: Stanley Dillon Hicks, Curtis Lee
 
-
+## Title:
 Super-Resolution Generative Deep Learning for Remote Sensing Image Segmentation of Mangroves submission for ECE 285
+
 
 Zips for data are included in the kaggle link here:
 
